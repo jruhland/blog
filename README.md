@@ -1,9 +1,5 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e7831a06-71b8-491d-81c5-14541c553e59/deploy-status)](https://app.netlify.com/sites/jruhland/deploys)
 <h1 align="center">
   Gatsby's blog starter
 </h1>
